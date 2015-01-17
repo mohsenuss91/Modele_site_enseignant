@@ -1,0 +1,4 @@
+AuthName "Page d'administration protégée"
+AuthType Basic
+AuthUserFile "C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\IHM_project\admin\.htpasswd"
+Require valid-user
